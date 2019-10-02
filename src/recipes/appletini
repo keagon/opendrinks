@@ -1,0 +1,16 @@
+{
+    "name": "Appletini",
+    "description": "An Apple martini (Appletini for short) is a cocktail containing vodka and one or more of apple juice, apple cider, apple liqueur, or apple brandy.",
+    "github": "keagon",
+    "ingredients": [
+        "Vodka or Gin",
+        "Apple Juice, Cider or Apple Pucker",
+           ],
+    "directions": [
+        "Put about 4cl of Vodka or Gin, and 2cl of Apple Juice, Cider or Apple Pucker together in a shaker or bowl",
+        "Shake or stir them, depending on the method chosen",
+        "If you like, put a cherry or apple slice on top",
+        "Chill: Refrigerate 30 to 40 minutes and serve"
+    ],
+    "image": "<appletini.jpg>"
+}
